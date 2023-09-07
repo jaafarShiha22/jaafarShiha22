@@ -18,7 +18,8 @@
 
 #### What my skill set looks like?
 - 🖥 Mobile development: 
-  - 📜 Languages: • Dart 
+  - 📜 Languages: • Dart
+  - State mangement: [Bloc](https://bloclibrary.dev/#/), [Riverpod](https://riverpod.dev/), [Provider](https://pub.dev/packages/provider), [GetX](https://pub.dev/packages/get)
   - 🔬 Frameworks:  
     - 📱 Mobile: • [Flutter](https://flutter.dev/)
 
