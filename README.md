@@ -29,7 +29,7 @@
   - 💾 Databases: • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [SQLite](https://www.sqlite.org/index.html) • [MySQL](https://www.mysql.com/)
  
 - 🎡 Software development ecosystem:
-  - 📁 Code repository: • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [GitLab](https://gitlab.com/gitlab-org)
+  - 📁 Code repository: • [Git](https://git-scm.com/) • [GitHub](https://github.com/) • [GitLab](https://gitlab.com/gitlab-org)
 
 - 🧙‍♂️ Coding pattern & principles:
   - ⚒ Design Patterns:  • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
