@@ -2,8 +2,8 @@
 
 
 #### Who am I?
-- I am Jaafar Shiha, a software engineer based in [Tartus](https://en.wikipedia.org/wiki/Tartus), [Syria](https://en.wikipedia.org/wiki/Syria). 
-- Have 3 years of hands-on experience in building, maintaining, and deploying mobile applications using Flutter framework.
+- I am Jaafar Shiha, a software engineer based in [Beirut](https://en.wikipedia.org/wiki/Beirut), [Lebanon](https://en.wikipedia.org/wiki/Lebanon). 
+- Have +4 years of hands-on experience in building, maintaining, and deploying mobile applications using Flutter framework.
 - Have some experience with other cross-platform frameworks like React Native and Ionic.
 
 #### What I'm doing?
