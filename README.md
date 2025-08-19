@@ -12,7 +12,7 @@
 - 📚 Currently learning about swiftUI, kotlin and node js.
 
 #### What I like to discuss? 
-- 💬 Ask me about flutter development, design patterns, architecture patterns, data structures, clean code, requirement analysis, state management, CI/CD, clean architecture,
+- 💬 Ask me about Flutter development, design patterns, architecture patterns, data structures, clean code, requirement analysis, user acquisition, Google Analytics, Google ADs Attribution, state management, CI/CD, clean architecture,
    and unit tests.
 
 #### What my skill set looks like?
