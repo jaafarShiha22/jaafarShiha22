@@ -3,7 +3,7 @@
 
 #### Who am I?
 - I am Jaafar Shiha, a software engineer based in [Tartus](https://en.wikipedia.org/wiki/Tartus), [Syria](https://en.wikipedia.org/wiki/Syria). 
-- Mobile Application Developer with 5+ years of experience in cross-platform development, specializing in Flutter with additional experience in React Native and Ionic. Led apps serving +3M users, focusing on performance, scalability, and maintainability. Strong emphasis on clean architecture, efficient UI, and agile practices.
+- Mobile Application Developer with 5+ years of experience in cross-platform development, specializing in Flutter with additional experience in React Native and Ionic. Led apps serving 3M+ users, focusing on performance, scalability, and maintainability. Strong emphasis on clean architecture, efficient UI, and agile practices.
 
 #### What I'm doing?
 - 🏢 Working at [Popsy](https://www.popsy.app/) as a Flutter Developer.
